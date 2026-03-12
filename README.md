@@ -202,6 +202,10 @@ Frontend runs at: **http://localhost:3000**
 - ✅ **Module 5** — Analytics Dashboard (bar chart + pie chart + summary cards)
 - ✅ **Module 6** — In-app Notifications (bonus) — triggered on task assignment
 
+
+## Demo Videos
+- [Demo Video 1 - frontend(https://drive.google.com/file/d/1dyL93CFnZH3d7L2AYPne7dg3BuPQDnSr/view?usp=sharing)
+- [Demo Video 2 - backend(https://drive.google.com/file/d/1Z6jU1kII0xxIaXa98H95eUsjdiSoLWSm/view?usp=sharing)
 ---
 
 ## 🔧 VSCode Tips
