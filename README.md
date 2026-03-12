@@ -213,7 +213,7 @@ Frontend runs at: **http://localhost:3000**
 
 ---
 
-## ❗ Troubleshooting
+##  Troubleshooting
 
 **`CORS error`** — Make sure both servers are running (backend on 8000, frontend on 3000)
 
